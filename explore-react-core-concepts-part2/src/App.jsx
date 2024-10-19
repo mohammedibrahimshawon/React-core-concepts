@@ -36,6 +36,7 @@ function App() {
       <button onClick={()=>{alert('third clicked')}}>Button 3</button>
       <button  onClick={()=>addToFive(3)}>four</button>
       <Counter></Counter>
+      <Counter></Counter>
       
       
 
